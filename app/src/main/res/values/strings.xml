@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Aula2603</string>
+
+    <string name="somar">Somar</string>
+    <string name="multiplicar">Multiplicar</string>
+    <string name="subtrair">Subtrair</string>
+    <string name="dividir">Dividir</string>
+    <string name="calcular">Calcular</string>
+
+</resources>
